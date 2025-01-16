@@ -1,3 +1,3 @@
 # MPC_CasADi
 
-PythonとCasADiを用いてモデル予測制御を実装した例
+PythonとCasADiを用いたモデル予測制御の実装例
