@@ -1,3 +1,3 @@
-# MPC_CasADi
+# MPC
 
-PythonとCasADiを用いたモデル予測制御の実装例
+MPC(モデル予測制御、Model Preictive Control)を用いて2リンクアームを制御する
